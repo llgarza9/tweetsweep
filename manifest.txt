@@ -1,0 +1,16 @@
+tweetsweep/
+|--- tweetprep/
+     |--- .gitignore
+     |--- api.py
+     |--- tweetsweep.py
+     |--- helpers.py
+|--- tests
+     |--- .gitignore
+     |--- api_test.py
+     |--- tweetsweep_test.py
+     |--- helpers.py
+     |--- twitterdata_example.json
+     |--- twitterdata_summary_example.txt
+|--- README.md
+|--- requirements.txt
+|--- manifest.txt
